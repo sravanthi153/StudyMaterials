@@ -1,5 +1,7 @@
 # StudyMaterials
-Overall notes,Projects,Interview's Q&amp;A
+Overall notes,Projects,Interview's 
+
 1.C
-2.C++
+
+2.C++   
 Soon..
