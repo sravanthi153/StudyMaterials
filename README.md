@@ -1,9 +1,5 @@
 # StudyMaterials
-Overall notes,Projects,Interview's 
+ Notes,Projects,Interview's 
 
-1.C  
-2.C++   
-3.Python   
-  git 
-  
-Soon..
+
+
